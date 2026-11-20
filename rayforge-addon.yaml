@@ -1,0 +1,11 @@
+name: layer_rules
+display_name: "layer_rules Addon"
+description: "Layer-aware laser parameters with material dialog."
+version: 1.0.0
+api_version: 16
+url: https://github.com/PhilipsCodeHub/Rayforge_layer_rules
+author:
+  name: Philip
+provides:
+  backend: layer_rules.backend
+  frontend: layer_rules.frontend
